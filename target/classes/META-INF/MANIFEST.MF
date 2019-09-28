@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ExcelForEntity
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HelloLight
+Implementation-Vendor-Id: dh.hongyi
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ExcelForEntity
+Created-By: Maven Integration for Eclipse
+
